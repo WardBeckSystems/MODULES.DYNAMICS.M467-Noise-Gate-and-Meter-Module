@@ -1,0 +1,224 @@
+{
+ "code": "M467",
+ "connector": "RTO-144",
+ "type": "DYMAMICS",
+ "series": "L-EFFECT",
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "CD",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "2",
+   "signal": "CD",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "3",
+   "signal": "SHIELD GN D",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "4",
+   "signal": "CONTROL",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "5",
+   "signal": "CONTROL",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "9",
+   "signal": "COMP TIE   1",
+   "kind": "control",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M467/M467.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "ZI- OCT",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "11",
+   "signal": "ZI- OCT",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "12",
+   "signal": "VU METER",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "13",
+   "signal": "VU METER",
+   "kind": "out",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M467/M467.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "16",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "18",
+   "signal": "CT",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M467/M467.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "T COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "21",
+   "signal": "+25V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS GND",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 28
+  }
+ ],
+ "straps": [],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "19",
+   "ground": "20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "21",
+   "ground": "20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M467/M467.rto144.json",
+  "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf"
+ ]
+}
