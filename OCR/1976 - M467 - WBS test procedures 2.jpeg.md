@@ -59,7 +59,7 @@ Apply kHz tone burst at duty cycle of 20 milli- seconds ON and 300 milliseconds 
 
 ```json
 {
- "file": "Modules/DYNAMICS/M467/PHOTOS/1976 - M467 - WBS test procedures 2.jpeg",
+ "file": "Modules/DYNAMICS/M467/MANUALS/1976 - M467 - WBS test procedures 2.jpeg",
  "sha256": "3504fd89ba6dd70cb4d01e7796aced031269e5784e8e3e686954ae1310b054c1",
  "kind": "module",
  "models": [

@@ -53,7 +53,7 @@ ISSUE APRIL/8?
 
 ```json
 {
- "file": "Modules/DYNAMICS/M467/PHOTOS/1976 - M467 - WBS test procedures 1.jpeg",
+ "file": "Modules/DYNAMICS/M467/MANUALS/1976 - M467 - WBS test procedures 1.jpeg",
  "sha256": "77fffc507ebd935343e3fff38b00abd6af05cb2d05e72c0b9a38871222225bba",
  "kind": "module",
  "models": [

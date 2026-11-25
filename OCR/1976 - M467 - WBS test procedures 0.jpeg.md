@@ -26,7 +26,7 @@ Noise Gate/Meter
 
 ```json
 {
- "file": "Modules/DYNAMICS/M467/PHOTOS/1976 - M467 - WBS test procedures 0.jpeg",
+ "file": "Modules/DYNAMICS/M467/MANUALS/1976 - M467 - WBS test procedures 0.jpeg",
  "sha256": "1cabc618be436445b9431132222466ae043618491c8e6f5a968ca998a9ce5f0b",
  "kind": "module",
  "models": [

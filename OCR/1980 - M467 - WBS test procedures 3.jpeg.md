@@ -67,7 +67,7 @@ Issue 2 MARCH 80
 
 ```json
 {
- "file": "Modules/DYNAMICS/M467/PHOTOS/1980 - M467 - WBS test procedures 3.jpeg",
+ "file": "Modules/DYNAMICS/M467/MANUALS/1980 - M467 - WBS test procedures 3.jpeg",
  "sha256": "c459455dcb6bf7b07d6fb451a8ddd6e34ada2cc4b72bdac2d2e99c231293e1a1",
  "kind": "module",
  "models": [
