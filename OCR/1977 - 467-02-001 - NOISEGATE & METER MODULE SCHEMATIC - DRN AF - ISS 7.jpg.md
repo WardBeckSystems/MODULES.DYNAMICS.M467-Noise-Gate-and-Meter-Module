@@ -37,7 +37,7 @@ Photo of an M467 noisegate and meter module schematic, title block at bottom rig
 - **Title block:** (119, 18)–(280, 67) mm: 28 · Nov [z2PM · USED ON · MATL_ · DSS IMOD: CKD · WBS WARD-BeCK bybteMB LTD · 312 · GEB · 14 · DRN · M467 · 3578 · FINISH · DATE OCT / 77 NOISEGATE & METER  MODULE · ML_ · CKD ROJ · ML · SCALE · SCHE
 - **Wiring (first pass):** 96 connected wire groups from 561 runs; labelled ends: 90 mm → NG INSERT; 68 mm → Pn3569, 0 pi, IN 40o3, Sk; 49 mm → Cr3, IN4003, mne, 470K; 48 mm → SE L; 44 mm → NG INSERT, Rs, 4M7
 
-Every curve, box, word and wire group: [1977 - 467-02-001 - NOISEGATE & METER MODULE SCHEMATIC - DRN AF - ISS 7 (traced).json](../SCHEMATICS/1977%20-%20467-02-001%20-%20NOISEGATE%20%26%20METER%20MODULE%20SCHEMATIC%20-%20DRN%20AF%20-%20ISS%207%20(traced).json) (the CAD file: `1977 - 467-02-001 - NOISEGATE & METER MODULE SCHEMATIC - DRN AF - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 467-02-001 - NOISEGATE & METER MODULE SCHEMATIC - DRN AF - ISS 7 (traced).json](../SCHEMATICS/1977%20-%20467-02-001%20-%20NOISEGATE%20%26%20METER%20MODULE%20SCHEMATIC%20-%20DRN%20AF%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1977 - 467-02-001 - NOISEGATE & METER MODULE SCHEMATIC - DRN AF - ISS 7 (traced).dxf`).
 
 ## Full text
 

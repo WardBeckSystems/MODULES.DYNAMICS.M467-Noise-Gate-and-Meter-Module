@@ -21,7 +21,7 @@ Wiki page: [M467](../../../../PAGES/M467.md)
 - **Words (OCR):** 123 in 78 lines: WBS · M467 · COAPRESSOR STEREO TIE suitch · multi-channe · tion_ · For Rarpose · the · VU Meter: Des igned to be operated #5 · Gain Reduction · connection of · Mor · cone ressors
 - **Title block:** (142, 26)–(265, 319) mm: WBS · M467 · COAPRESSOR STEREO TIE suitch · multi-channe · connection of · Mor · control buses · compressor · controe · connected · the · che · reduction · bus · Attenuatiom controi R46 Determins max 
 
-Every curve, box, word and wire group: [1976 - M467 - 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH (traced).json](../MECHANICAL/1976%20-%20M467%20-%20467-04-002%20-%20COMP%20TIE%20COHPRESSOR%20STEREO%20TIE%20SWITCH%20(traced).json) (the CAD file: `1976 - M467 - 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M467 - 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH (traced).json](../MECHANICAL/1976%20-%20M467%20-%20467-04-002%20-%20COMP%20TIE%20COHPRESSOR%20STEREO%20TIE%20SWITCH%20%28traced%29.json) (the CAD file: `1976 - M467 - 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH (traced).dxf`).
 
 ## Full text
 

@@ -28,7 +28,7 @@ Wiki page: [M467](../../../../PAGES/M467.md)
 - **Words (OCR):** 25 in 16 lines: (VVElS] 64' · WARD-BECK YSTE · LT · !fe · CNT'"""'O · ~a.E · TtLE"""'CINE 4'8 · "311 · M467 /M567 · NOISE GATE. METER MODULE · ps · BS
 - **Title block:** (100, 30)–(251, 418) mm: WARD-BECK YSTE · !fe · CNT'"""'O · ~a.E · TtLE"""'CINE 4'8 · "311 · M467 /M567 · NOISE GATE. METER MODULE · MANUAL ISSUE
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p1 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p1%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p1 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p1%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -40,7 +40,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Dots (junctions):** 5
 - **Words (OCR):** 186 in 83 lines: WARO ·BECI< SYSTEMS LTO · ECHNI CAL DA · ~46 7/M 567 NO SE GA TE ND METER MODUL · Gain: · Un it · requency Re sp on se · 25 dB from · to 20 · Hz · No se: · Bm · so ute
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p2 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p2%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p2 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p2%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Outlines:** line 44 rings, 966 straight (3,064 mm) / 160 curved (236 mm); text 405 rings, 3,286 straight (3,687 mm) / 1,011 curved (1,625 mm)
 - **Words (OCR):** 154 in 98 lines: WAAD-BeCK BybTems LTD; · OTJ BmStEy8 Xjae-ORAWV · TECHNICAL DATA · M467/m567 NOISE GATE AND · METER MODULE · Metering Stereo Tie: · Meter facilities · provided for · operation · with · M466/m566 Compressor/Limiter . · :nicj
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p3 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p3%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p3 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p3%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -59,7 +59,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 124 in 49 lines: WAAD-BECK BYBTEmB LTD_ · GENERAL · M467/m567 NOISE GATE AND · METER MODULE · The M467/m567 · Noise  Gate is an · ancillary processing · module designed · to · integrate into the various series of WBS · console systems · The ML67 is designed to
 - **Title block:** (4, 215)–(284, 420) mm: WAAD-BECK BYBTEmB LTD_ · GENERAL · M467/m567 NOISE GATE AND · METER MODULE · The M467/m567 · Noise  Gate is an · ancillary processing · module designed · to · integrate into the various series of WBS 
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p4 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p4%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p4 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p4%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -70,7 +70,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 425 in 206 lines: WAFID-BECK SYSTEMS · LTD. · IRCU · DESCR IPTION · M467/ M561 NO ISE GATE AND MET ER MO DULE · Au · Chan nel · The inp · sIgn al en ters the "14 · modul · via pin · an
 - **Title block:** (3, 397)–(112, 420) mm: WAFID-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p5 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p5%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p5 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p5%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -80,7 +80,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (24.1, 276.1), r 1.7 @ (177.9, 199.6)
 - **Words (OCR):** 447 in 165 lines: WARO ·BECK Sy.Te · L.TO. · IRCU IT DESC RIP TI ON · M46 7/M567 NOI SE GATE AND METER MODUL.E · Whe · the noise · at · is processing 1I sign · level hi her than he · threshold level, · ou tput of Z8 · be el positive power supply
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p6 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p6%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p6 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p6%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Dots (junctions):** 1
 - **Words (OCR):** 272 in 111 lines: CIR CUIT DESCR IPTION · '.-;1.67/ ""567 NO ISE GATE AND ""ETER JoIIOOULE · Ga · In dlc:alor · SI""" LEO GATE lc atoo- wa · OU IP · 03 ac li" · the · 29 · 5,6,7 · I'>e In ic tor · ON w"'en
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p7 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p7%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p7 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p7%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 201 in 95 lines: D-BECK VSTII MS L.TD. · ADj UST MENT PROCE DURE · M467 M567 NOI SE GA TE AND MET ER MODULE · Remove · 109A ca · Re lease NG · pl po we... and ched · TOla · cu ...en · 30 rnA · Vol tage · ins 2E3
 - **Title block:** (22, 100)–(67, 416) mm: Remove · Re lease NG · TOla · Vol tage · pin · zz pin · ZJ · in · Z5 · in · Z9 · in · Z9 · pin · Remo · Re stor po we · "ppr-o xi · Wi · Ap · ce THL · Vol tag · Voltage sh · Place HLO · App · Vo t"ge 
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p8 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p8%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p8 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p8%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 281 in 123 lines: WARO-BECK SYSTEMS L.TO. · ADJUST MENT PROCEDU RE · M46 M56 NO SE GA TE AND METER MODUL · Apply · Khz · Bm inpu · Mon · ou pu · pin 15 · 16 · Adju · R4 fo un it gllin
 - **Title block:** (1, 69)–(111, 420) mm: WARO-BECK SYSTEMS L.TO. · Apply · Khz · 16 · Adju · R4 fo un it gllin · Dep ress NG · ch · Slo ly · drops · No te · R5 · smoo · Operll ting th · ou tpu throug it' en tire ll · Se control · fo ll ws · 
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p9 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p9%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p9 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p9%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -125,7 +125,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 178 in 82 lines: WARC-BECK · 8TEMS LTC. · ADJUST ME NT PROCE DURE · M46 7/M567 NOISE GA TE AND ME TER MODtJl.E · NO · AHE · full · ReS · fully ccw. · T",-O · .djusl '10 · lgn.1
 - **Title block:** (2, 111)–(98, 416) mm: WARC-BECK · NO · AHE · ReS · T",-O · Ad ll · R28 · li .econd · 10 · Gener-. Tes ts · Se · AT TE · THL · Res · ec · Hz to · Hz · ES bl · ma mu · Me•• · 25~ rom · Remova In · Me• ure ab50lut · 20 Hz · 1
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p10 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p10%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p10 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p10%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -134,7 +134,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Outlines:** line 77 rings, 1,190 straight (4,111 mm) / 231 curved (364 mm); text 966 rings, 7,778 straight (8,696 mm) / 2,536 curved (4,034 mm)
 - **Words (OCR):** 158 in 98 lines: WARO-III!CK 8Y8TI!MS LTC · PARTS LIST · "1461/101 561 NOISE GATE AND ME TER MOOUL · PART · OESCR IPT ION · FG · MFG PART NU MBER · Capacitor · 22 uF /25 · Phil ip · 030162 29 · ca
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p11 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p11%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p11 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p11%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (67.9, 307.3)
 - **Words (OCR):** 87 in 54 lines: WARO-BECK SY8TI!MB L.TO. · PAR TS LI ST · M46 7/M S61 NO! SE GAT AND METER MODULE · PAR · DESCRIP IO · "FG · FG · PART NUMBER · ca · Diod · Motorol · IN400J
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p12 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p12%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p12 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p12%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 72 in 44 lines: WAFlD·BECK SYSTEMS LTD. · PARTS LIST · "1467/"1567 NO ISE GATE AND ME ER MODUL · PAR · DESCR PTIO · PART NUMBER · Re st · 4W · Phil · 47 0K · 620 · roc
 - **Title block:** (4, 394)–(113, 417) mm: WAFlD·BECK SYSTEMS LTD.
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p13 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p13%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p13 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p13%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -165,7 +165,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 105 in 67 lines: WA~D-ElECK SYSTEMS LTD. · PART LIST · M467!M567 NO SE GATE AND MET ER MODULE · PART · OE5CR PT JON · CO · PAR · NUMBER · Po te · ometer · A/B · WB5 10- 015
 - **Title block:** (56, 85)–(228, 421) mm: WA~D-ElECK SYSTEMS LTD. · PART LIST · M467!M567 NO SE GATE AND MET ER MODULE · OE5CR PT JON · CO · ometer · A/B · Re st or · 4W · Phil ip · Trim Po · lh · PTIOV · Re si tor 1!4W · Ph il ip · 1!2W · 1!
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p14 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p14%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p14 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p14%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -176,7 +176,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 148 in 75 lines: WARD ·BECl< YSTEMS · LT · PA RTS LIS · M46 NO SE GA · ND MET ER MODUL · SCEL AN EOUS COMPONENTS · USED · OESCR PTIO · MFG PAR · NUMBER · Kn · lock)
 - **Title block:** (0, 30)–(36, 418) mm: USED · swr · USED · swz
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p15 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p15%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p15 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p15%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -185,7 +185,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Outlines:** line 27 rings, 650 straight (2,981 mm) / 109 curved (174 mm); text 31 rings, 246 straight (288 mm) / 61 curved (104 mm)
 - **Words (OCR):** 12 in 7 lines: Fl · CIt YSTEMS LTO · 109 AMPLIFI ER SERIES · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p16 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p16%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p16 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p16%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -196,7 +196,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Closed boxes:** 1
 - **Words (OCR):** 255 in 124 lines: WA · CK YSTEMS · LTO · DESCR IP TION · 8_1 09 AM · ER SERI ES · The · 109 se ie · of · mp · ier · are util zed as an In ternal com ponenl
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p17 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p17%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p17 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p17%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -208,7 +208,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 328 in 94 lines: WAFlO-BECK SYSTEMS LTO · DESCR TIO · 109 AMP LI FI ER SER IES · OUlP Ut Leve · +30 dBm ma ximum · owe Re qu Ir em · vol · dc, 18 mA · le &Ce nt curren · 65 mA at +30 dBm ou tput. · Ambient Tempe rat ure · 10
 - **Title block:** (1, 124)–(124, 429) mm: WAFlO-BECK SYSTEMS LTO · OUlP Ut Leve · owe Re qu Ir em · Ambient Tempe rat ure · Di men sions: · lhrough C4, and the lher · The · nle grated circu it · In the mej Ol'"l ty of he 8_109 modets, · secti
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p18 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p18%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p18 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p18%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -217,7 +217,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Outlines:** line 314 rings, 3,594 straight (6,537 mm) / 948 curved (1,537 mm); text 566 rings, 3,920 straight (4,431 mm) / 1,214 curved (1,960 mm)
 - **Words (OCR):** 120 in 70 lines: WAR D-l!leCK SVS Te MS LTD · PART · IST · og AMPL IF ER SER ES · 8-109 · PART · DESCR IP TI ON · .FG · MF PAR NUMBER · Ca pacilo<' · JJ · l0
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p19 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p19%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p19 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p19%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -227,7 +227,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (95.1, 317.7)
 - **Words (OCR):** 81 in 61 lines: WARD -BECI< · STI!!!M I!!l L.TD · PART LIST · 109 AMP LI ER SER ES · 8-109 · 'ART · DESCRIPTION · MF PART NUMBER · Re · lor 1/4W · Phlllp. · Rn
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p20 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p20%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p20 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p20%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -237,7 +237,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Closed boxes:** 1
 - **Words (OCR):** 113 in 60 lines: CK YST · LT · PARTS · IST · 109 ",MPL IFIER SERIES · 8-109A · Il~ 115 · pe~ 10 · xce pt 115 no ted be low · P"'RT · DESCRIPTIO · M'G
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p21 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p21%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p21 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p21%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -247,7 +247,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Words (OCR):** 118 in 61 lines: WARO -BECK SYSTEMS · LTO. · PAR TS LIS · _109 AMPL FI ER SERIES · _10 90 · rt · per 8-109 · cep · noted belo · PA RT · DESCRIPT IO · MF PART NUMBE
 - **Title block:** (30, 404)–(113, 427) mm: WARO -BECK SYSTEMS
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p22 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p22%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p22 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p22%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -257,7 +257,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Closed boxes:** 1
 - **Words (OCR):** 70 in 36 lines: YSTEMS LTD · PART LI ST · 109 AM PLI · ER SER ES · 10% · Al · ar- ts · pe · 10 · xce · ot ed · PART
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p23 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p23%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p23 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p23%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -269,7 +269,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Dots (junctions):** 1
 - **Words (OCR):** 182 in 101 lines: WI' · COW · C(J4PAE SSOIt ST[ItEO TI · Iw · SW2 · Fo tM pulpo" · tar Des gne to be · cOlW'le · st.rM · on of · IllUlt · ~r.t lon.
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p24 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p24%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p24 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p24%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -280,7 +280,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Closed boxes:** 38; named: OVERLOAD CLIPPER; GATE CONTROL; ATTACK RELEASE; REF; VU
 - **Words (OCR):** 61 in 53 lines: OUT~UT · DlFFEIIIJITIAL · AMP · AUDIO · IN~UT · AUDIO · OUTPUT · 8-109A · ATTENUATION · CUT AWAY · (GATE OFF) · .-st dB
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p25 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p25%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p25 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p25%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -291,7 +291,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Dots (junctions):** 2
 - **Words (OCR):** 60 in 55 lines: co, · eo · 21 · G4ra · ,50 · fGoO · zo. · CO" · IMftlJMl' · 7d · Il · II
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p26 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p26%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p26 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p26%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -303,7 +303,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Dots (junctions):** 3
 - **Words (OCR):** 100 in 89 lines: 10 · -c'33 · vu · 210. · NOTE · TO · 2Ei · f'1~S. · TO · MOI.l~T · r-'C7-'--- · --c:r-
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p27 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p27%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p27 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p27%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -314,7 +314,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Closed boxes:** 88; named: V1 V1 ow :La:: wo 1-1- wu :LW l!l V1; CD CD CD II; iii III; r-c; xci ':C':Cct: vi; 10; 11; 12; 13; ct:; III ii:; 14
 - **Words (OCR):** 71 in 62 lines: iii · III · CD · V1 · V1 · CD · NPUT · CD · ow · :La:: · wo · SHIELD GN
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p28 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p28%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p28 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p28%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -326,7 +326,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Dots (junctions):** 4
 - **Words (OCR):** 47 in 46 lines: 'HS · E3 · CoS · ,oI · 013 · 2lo.ll 10t · 30k · 10·. · E4- · va", · R34- · l5
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p29 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p29%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p29 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p29%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -337,7 +337,7 @@ Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Mete
 - **Closed boxes:** 11; named: -R8 70 -C5 7p IO _c.t..~ _C,,~·-rp _~~.&; DRN. GEB
 - **Words (OCR):** 44 in 37 lines: -R8 70 · -C5 7p · IO · _c.t..~ · _C,,~·-rp · _~~.&Il. · _c.~.!.o/e.s · -R23 2el<. · -RIO 21<: · cn- · 4700p_ · (\NEls)
 
-Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p30 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p30%20(traced).json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - M467 - M567 - Noise Gate and Meter Module p30 (traced).json](../MANUALS/1985%20-%20M467%20-%20M567%20-%20Noise%20Gate%20and%20Meter%20Module%20p30%20%28traced%29.json) (the CAD file: `1985 - M467 - M567 - Noise Gate and Meter Module p30 (traced).dxf`).
 
 ## Full text
 

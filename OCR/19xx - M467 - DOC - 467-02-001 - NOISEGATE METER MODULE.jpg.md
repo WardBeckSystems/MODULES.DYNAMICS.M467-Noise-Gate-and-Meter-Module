@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (292, 8)–(428, 32) mm: PM · WARD-BECK BYBTEMB LTD · MOD-CKD · WBS · 446 · IDATE · NOISEGATE · SCHEMATIC · MODUle
 - **Wiring (first pass):** 142 connected wire groups from 922 runs, 2 dotted junctions; labelled ends: 76 mm → tlo <, Lufei; 75 mm → 4G iNSERT; 59 mm → 024; 56 mm → 266, 12/25; 54 mm → P3445, In4203, cio, TIP 306
 
-Every curve, box, word and wire group: [19xx - M467 - DOC - 467-02-001 - NOISEGATE METER MODULE (traced).json](../SCHEMATICS/19xx%20-%20M467%20-%20DOC%20-%20467-02-001%20-%20NOISEGATE%20METER%20MODULE%20(traced).json) (the CAD file: `19xx - M467 - DOC - 467-02-001 - NOISEGATE METER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M467 - DOC - 467-02-001 - NOISEGATE METER MODULE (traced).json](../SCHEMATICS/19xx%20-%20M467%20-%20DOC%20-%20467-02-001%20-%20NOISEGATE%20METER%20MODULE%20%28traced%29.json) (the CAD file: `19xx - M467 - DOC - 467-02-001 - NOISEGATE METER MODULE (traced).dxf`).
 
 ## Full text
 

@@ -23,7 +23,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 110 in 72 lines: WbS · M467 · YBS · COMP · TIE switch Sw2: For · Rorsose · connection · mone · 4L65 · odere · compressors · VU Keter; Designed_ [0 be operated
 - **Title block:** (94, 47)–(291, 316) mm: WbS · M467 · YBS · COMP · TIE switch Sw2: For · Rorsose · connection · mone · 4L65 · odere · compressors · WBS · Gaim Reouction · H466 · Lwo contro · buses · The 4166 · overrice · highes compressor co
 
-Every curve, box, word and wire group: [19xx - M467 - DOC - 467-04-002 - CIRCUITRY RED LED INDICATOR KHEN DEPRESSED AND ASSOC (traced).json](../MECHANICAL/19xx%20-%20M467%20-%20DOC%20-%20467-04-002%20-%20CIRCUITRY%20RED%20LED%20INDICATOR%20KHEN%20DEPRESSED%20AND%20ASSOC%20(traced).json) (the CAD file: `19xx - M467 - DOC - 467-04-002 - CIRCUITRY RED LED INDICATOR KHEN DEPRESSED AND ASSOC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M467 - DOC - 467-04-002 - CIRCUITRY RED LED INDICATOR KHEN DEPRESSED AND ASSOC (traced).json](../MECHANICAL/19xx%20-%20M467%20-%20DOC%20-%20467-04-002%20-%20CIRCUITRY%20RED%20LED%20INDICATOR%20KHEN%20DEPRESSED%20AND%20ASSOC%20%28traced%29.json) (the CAD file: `19xx - M467 - DOC - 467-04-002 - CIRCUITRY RED LED INDICATOR KHEN DEPRESSED AND ASSOC (traced).dxf`).
 
 ## Full text
 

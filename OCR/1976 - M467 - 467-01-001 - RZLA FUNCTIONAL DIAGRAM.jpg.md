@@ -27,7 +27,7 @@ Wiki page: [M467](../../../../PAGES/M467.md)
 - **Title block:** (146, 5)–(384, 56) mm: MTL · DSSMODICKD] · USED ON · 3536 IPKM: · WBS WAAD-BECK byBTEMB LTD: · 4000 · DRN DNM · M467 · FIMISH · DATE DEC 76 · NOISE GATE · CKD · FUNCTIONAL DIAGRAM · FSCALE · TOLS · 467- 01-001
 - **Wiring (first pass):** 42 connected wire groups from 277 runs; labelled ends: 125 mm → CONTROL, ATTACK, RELEASE; 88 mm → BUFFER, AMP; 85 mm → OVERLOAD; 72 mm → Away; 63 mm → 8-109A
 
-Every curve, box, word and wire group: [1976 - M467 - 467-01-001 - RZLA FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1976%20-%20M467%20-%20467-01-001%20-%20RZLA%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1976 - M467 - 467-01-001 - RZLA FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M467 - 467-01-001 - RZLA FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1976%20-%20M467%20-%20467-01-001%20-%20RZLA%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1976 - M467 - 467-01-001 - RZLA FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

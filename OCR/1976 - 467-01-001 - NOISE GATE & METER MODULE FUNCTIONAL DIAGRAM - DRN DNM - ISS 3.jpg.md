@@ -41,7 +41,7 @@ M467 noise gate and meter module functional block diagram.
 - **Title block:** (146, 5)–(384, 56) mm: DSSMODICKD] · USED OM · 3536 IPKM: · WBS WAAD-BECK byBTEMB LTD: · 4000 · DRN DNM · M467 · FINISH · DATE · DEC 76 · NOISE GATE · CKD · FUNCTIONAL DIAGRAM · FSCALE · TOLs · 467- 01-001
 - **Wiring (first pass):** 41 connected wire groups from 280 runs; labelled ends: 145 mm → CONTROL, ATTACK, RELEASE; 95 mm → OVERLOAD; 85 mm → BUFFER, AMP; 72 mm → Away; 63 mm → 8-109A
 
-Every curve, box, word and wire group: [1976 - 467-01-001 - NOISE GATE & METER MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 3 (traced).json](../SCHEMATICS/1976%20-%20467-01-001%20-%20NOISE%20GATE%20%26%20METER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DNM%20-%20ISS%203%20(traced).json) (the CAD file: `1976 - 467-01-001 - NOISE GATE & METER MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 467-01-001 - NOISE GATE & METER MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 3 (traced).json](../SCHEMATICS/1976%20-%20467-01-001%20-%20NOISE%20GATE%20%26%20METER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DNM%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1976 - 467-01-001 - NOISE GATE & METER MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 3 (traced).dxf`).
 
 ## Full text
 

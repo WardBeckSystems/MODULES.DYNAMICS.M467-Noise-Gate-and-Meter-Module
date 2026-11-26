@@ -23,7 +23,7 @@ Wiki page: [M467](../../../../PAGES/M467.md)
 - **Words (OCR):** 31 in 31 lines: 25++ · Rct · soon · 1211 · Hreshold · R7o · Dil) · 2sv- · Chuss · L4235 · LhZol · Ioo7
 - **Wiring (first pass):** 166 connected wire groups from 1,039 runs; labelled ends: 133 mm → NG inseRT; 123 mm → 811; 100 mm → Tla; 75 mm → 8-1091; 69 mm → METER MCDU:
 
-Every curve, box, word and wire group: [1976 - M467 - 467-02-001 - UNLES OTHERWST STID ALL RELDTOTT' (traced).json](../SCHEMATICS/1976%20-%20M467%20-%20467-02-001%20-%20UNLES%20OTHERWST%20STID%20ALL%20RELDTOTT%27%20(traced).json) (the CAD file: `1976 - M467 - 467-02-001 - UNLES OTHERWST STID ALL RELDTOTT' (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M467 - 467-02-001 - UNLES OTHERWST STID ALL RELDTOTT' (traced).json](../SCHEMATICS/1976%20-%20M467%20-%20467-02-001%20-%20UNLES%20OTHERWST%20STID%20ALL%20RELDTOTT%27%20%28traced%29.json) (the CAD file: `1976 - M467 - 467-02-001 - UNLES OTHERWST STID ALL RELDTOTT' (traced).dxf`).
 
 ## Full text
 

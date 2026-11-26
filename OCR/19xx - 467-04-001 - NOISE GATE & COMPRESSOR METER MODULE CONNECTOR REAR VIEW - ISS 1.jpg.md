@@ -30,7 +30,7 @@ Rotated connector rear view drawing for the M467 module with title block down th
 - **Circles and arcs:** 2 circles, 0 arcs; largest r 1.6 @ (16.6, 51.2), r 1.6 @ (60.8, 51.2)
 - **Closed boxes:** 87
 
-Every curve, box, word and wire group: [19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1 (traced).json](../PINOUTS/19xx%20-%20467-04-001%20-%20NOISE%20GATE%20%26%20COMPRESSOR%20METER%20MODULE%20CONNECTOR%20REAR%20VIEW%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1 (traced).json](../PINOUTS/19xx%20-%20467-04-001%20-%20NOISE%20GATE%20%26%20COMPRESSOR%20METER%20MODULE%20CONNECTOR%20REAR%20VIEW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1 (traced).dxf`).
 
 ## Full text
 
