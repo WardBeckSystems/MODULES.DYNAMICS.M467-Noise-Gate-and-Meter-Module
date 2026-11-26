@@ -1,0 +1,19 @@
+{
+ "clap": {
+  "id": "ca.wbsps.m467_noise_gate",
+  "name": "Ward-Beck M467 Noise Gate",
+  "strings": [
+   "ca.wbsps.m467_noise_gate",
+   "Ward-Beck M467 Noise Gate",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "Differential FET noise gate with Fourier cosine attack, sidechain filter, and dual vertical edgewise meters"
+  ]
+ },
+ "code": "M467",
+ "suite_index": 11,
+ "source": "2030.env/vst/M467_Noise_Gate"
+}
