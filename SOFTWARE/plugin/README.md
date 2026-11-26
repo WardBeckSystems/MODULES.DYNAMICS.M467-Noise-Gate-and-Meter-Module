@@ -3,6 +3,8 @@
 The Ward-Beck M467 Noise Gate (1976) as a **VST3 / CLAP plugin** with its front panel and edgewise VU,
 and as the DSP the **Ward-Beck Audio Tap** runs as an insert.
 
+**Download** the VST3 / CLAP for Windows, macOS and Linux from this repo's [releases](https://github.com/WardBeckSystems/MODULES.DYNAMICS.M467/releases/latest). All Ward-Beck plugins: [Ward-Beck Plugin Core](https://github.com/WardBeckSystems/Ward-Beck-Plugin-Core#plugins).
+
 | Control | Range | What it does |
 |---|---|---|
 | NG | in / out | gate in; the red lamp is lit while the gate is holding the signal down |
