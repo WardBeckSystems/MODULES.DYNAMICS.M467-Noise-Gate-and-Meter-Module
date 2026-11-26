@@ -1,0 +1,1 @@
+/home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/DYNAMICS/M467/SOFTWARE/plugin/target/release/xtask: /home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/DYNAMICS/M467/SOFTWARE/plugin/xtask/src/main.rs

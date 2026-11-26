@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/ad2d5e7571b38c88-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1440, 2000],
+  "mm": [310.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.8, 2.9, 300.7, 418.4],
+ "outlines": {
+  "line": {"rings": 27, "straight": {"n": 650, "mm": 2981.1}, "curved": {"n": 109, "mm": 174.5}},
+  "text": {"rings": 31, "straight": {"n": 246, "mm": 287.9}, "curved": {"n": 61, "mm": 103.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [23.1, 411.7, 28.7, 417.5], "text": "Fl"},
+   {"mm": [51.8, 411.7, 128.2, 417.5], "text": "CIt YSTEMS LTO"},
+   {"mm": [117.9, 212.7, 197.1, 218.2], "text": "109 AMPLIFI ER SERIES"},
+   {"mm": [265.1, 53.5, 284.6, 61.9], "text": "ps"},
+   {"mm": [254.5, 43.0, 274.8, 53.5], "text": "BS"},
+   {"mm": [233.6, 22.0, 250.9, 28.7], "text": "tp"},
+   {"mm": [226.9, 15.5, 246.3, 22.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1440 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–301 mm across, 3–418 mm up",
+  "- **Outlines:** line 27 rings, 650 straight (2,981 mm) / 109 curved (174 mm); text 31 rings, 246 straight (288 mm) / 61 curved (104 mm)",
+  "- **Words (OCR):** 12 in 7 lines: Fl · CIt YSTEMS LTO · 109 AMPLIFI ER SERIES · ps · BS · tp · ht"
+ ]
+}

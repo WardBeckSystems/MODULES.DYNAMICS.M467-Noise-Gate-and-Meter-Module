@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/DYNAMICS/M467/MANUALS/1976 - M467 - M567 - Noise Gate and Meter Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/f982101bdfa81ccf-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1421, 2000],
+  "mm": [306.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.5, 8.6, 295.6, 411.3],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 501, "mm": 2626.6}, "curved": {"n": 69, "mm": 107.1}},
+  "text": {"rings": 170, "straight": {"n": 1955, "mm": 2624.1}, "curved": {"n": 465, "mm": 799.3}},
+  "tb": {"rings": 2, "straight": {"n": 105, "mm": 306.6}, "curved": {"n": 4, "mm": 8.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [104.5, 401.8, 182.7, 411.6], "text": "WAAD-BECK"},
+   {"mm": [185.9, 402.4, 273.3, 412.0], "text": "SYSTEMS LTD"},
+   {"mm": [32.8, 392.9, 271.0, 407.6], "text": "WBS B41 PROGRESS AVENUE, SCAABOROUGH ONTAAIO M1F2x4"},
+   {"mm": [103.4, 390.6, 157.2, 396.3], "text": "TeleX 065-25399"},
+   {"mm": [194.1, 391.0, 227.6, 396.3], "text": "TELEPHONE"},
+   {"mm": [230.1, 390.6, 271.0, 397.0], "text": "416,438-6550"},
+   {"mm": [103.6, 222.8, 202.7, 239.8], "text": "M467/M567"},
+   {"mm": [81.8, 208.1, 217.8, 218.4], "text": "NoiSe GATE & METER MODULE"},
+   {"mm": [196.5, 38.4, 246.1, 45.9], "text": "MANUAL LSSUE"},
+   {"mm": [195.8, 25.5, 253.7, 32.4], "text": "SEPTEMBER 1985"}
+  ]
+ },
+ "title_block": {
+  "mm": [26.8, 384.3, 252.5, 420.7],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK", "SYSTEMS LTD", "WBS B41 PROGRESS AVENUE, SCAABOROUGH ONTAAIO M1F2x4", "TeleX 065-25399", "TELEPHONE", "416,438-6550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 307 × 432 mm, 1421 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 10–296 mm across, 9–411 mm up",
+  "- **Outlines:** line 4 rings, 501 straight (2,627 mm) / 69 curved (107 mm); text 170 rings, 1,955 straight (2,624 mm) / 465 curved (799 mm); tb 2 rings, 105 straight (307 mm) / 4 curved (8.8 mm)",
+  "- **Words (OCR):** 15 in 10 lines: WAAD-BECK · SYSTEMS LTD · WBS B41 PROGRESS AVENUE, SCAABOROUGH ONTAAIO M1F2x4 · TeleX 065-25399 · TELEPHONE · 416,438-6550 · M467/M567 · NoiSe GATE & METER MODULE · MANUAL LSSUE · SEPTEMBER 1985",
+  "- **Title block:** (27, 384)–(252, 421) mm: WAAD-BECK · SYSTEMS LTD · WBS B41 PROGRESS AVENUE, SCAABOROUGH ONTAAIO M1F2x4 · TeleX 065-25399 · TELEPHONE · 416,438-6550"
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "drawing": "Modules/DYNAMICS/M467/MANUALS/1976 - M467 - M567 - Noise Gate and Meter Module.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/f982101bdfa81ccf-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1395, 2000],
+  "mm": [301.2, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [8.2, 2.6, 294.3, 416.7],
+ "outlines": {
+  "line": {"rings": 12, "straight": {"n": 783, "mm": 3378.3}, "curved": {"n": 76, "mm": 121.0}},
+  "text": {"rings": 372, "straight": {"n": 3029, "mm": 3472.5}, "curved": {"n": 847, "mm": 1359.2}},
+  "tb": {"rings": 8, "straight": {"n": 37, "mm": 45.2}, "curved": {"n": 16, "mm": 25.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 47,
+  "lines": [
+   {"mm": [8.6, 410.2, 126.7, 417.9], "text": "WAAD-BECK SySTEms LTD_"},
+   {"mm": [132.8, 364.9, 173.4, 371.8], "text": "PARTS LIST"},
+   {"mm": [109.7, 350.2, 196.5, 358.4], "text": "8-109 AMPLIFIER_SERIES"},
+   {"mm": [23.3, 336.8, 47.1, 344.5], "text": "8-109G"},
+   {"mm": [37.6, 323.4, 68.9, 330.4], "text": "parts as"},
+   {"mm": [86.8, 323.4, 142.7, 330.8], "text": "8-109 except as"},
+   {"mm": [23.7, 323.9, 34.5, 330.3], "text": "AII"},
+   {"mm": [71.5, 323.6, 83.8, 328.9], "text": "per"},
+   {"mm": [145.3, 323.9, 187.8, 330.3], "text": "noted below"},
+   {"mm": [23.7, 309.8, 41.5, 316.8], "text": "PART"},
+   {"mm": [57.2, 309.8, 98.0, 316.8], "text": "DESC IPT ION"},
+   {"mm": [169.5, 309.8, 184.2, 316.3], "text": "MFG"},
+   {"mm": [219.8, 309.8, 233.8, 316.3], "text": "MFG"},
+   {"mm": [236.4, 309.8, 283.9, 316.8], "text": "PART NUMBER"},
+   {"mm": [23.3, 296.4, 33.0, 302.9], "text": "C6"},
+   {"mm": [56.3, 294.9, 126.9, 303.1], "text": "Capacitor 4.7 pF"},
+   {"mm": [168.6, 294.9, 195.4, 303.6], "text": "Philips"},
+   {"mm": [219.1, 295.8, 269.4, 302.7], "text": "2222-638-09478"},
+   {"mm": [23.3, 275.9, 36.3, 282.4], "text": "R15"},
+   {"mm": [56.8, 275.3, 104.7, 282.4], "text": "Resistor 1/4w"},
+   {"mm": [107.3, 274.2, 131.7, 282.3], "text": "5% 2K4"},
+   {"mm": [23.3, 131.3, 110.3, 138.2], "text": "WBS recommends the use"},
+   {"mm": [112.9, 131.3, 120.5, 137.7], "text": "of"},
+   {"mm": [122.8, 130.6, 187.4, 138.3], "text": "replacement parts"},
+   {"mm": [189.3, 130.6, 219.8, 137.7], "text": "made by"},
+   {"mm": [223.5, 130.6, 269.4, 138.8], "text": "the specified"},
+   {"mm": [23.3, 124.1, 87.4, 131.1], "text": "manufacturers for"},
+   {"mm": [89.6, 123.5, 193.2, 131.2], "text": "continued optimum equipment"},
+   {"mm": [195.6, 123.5, 241.2, 131.7], "text": "performance."},
+   {"mm": [136.0, 1.7, 168.8, 8.2], "text": "8-109-2-5"}
+  ]
+ },
+ "title_block": {
+  "mm": [2.6, 123.1, 132.9, 426.4],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SySTEms LTD_",
+   "8-109G",
+   "parts as",
+   "8-109 except as",
+   "AII",
+   "per",
+   "PART",
+   "DESC IPT ION",
+   "C6",
+   "Capacitor 4.7 pF",
+   "R15",
+   "Resistor 1/4w",
+   "5% 2K4",
+   "WBS recommends the use",
+   "of",
+   "manufacturers for"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 301 × 432 mm, 1395 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–294 mm across, 3–417 mm up",
+  "- **Outlines:** line 12 rings, 783 straight (3,378 mm) / 76 curved (121 mm); text 372 rings, 3,029 straight (3,472 mm) / 847 curved (1,359 mm); tb 8 rings, 37 straight (45.2 mm) / 16 curved (25.0 mm)",
+  "- **Words (OCR):** 47 in 30 lines: WAAD-BECK SySTEms LTD_ · PARTS LIST · 8-109 AMPLIFIER_SERIES · 8-109G · parts as · 8-109 except as · AII · per · noted below · PART · DESC IPT ION · MFG",
+  "- **Title block:** (3, 123)–(133, 426) mm: WAAD-BECK SySTEms LTD_ · 8-109G · parts as · 8-109 except as · AII · per · PART · DESC IPT ION · C6 · Capacitor 4.7 pF · R15 · Resistor 1/4w · 5% 2K4 · WBS recommends the use · of · manufacturers for"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "drawing": "Modules/DYNAMICS/M467/MANUALS/1976 - M467 - M567 - Noise Gate and Meter Module.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/f982101bdfa81ccf-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1440, 2000],
+  "mm": [310.9, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "30"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.8, 2.7, 300.8, 418.6],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 463, "mm": 2677.5}, "curved": {"n": 40, "mm": 66.0}},
+  "text": {"rings": 42, "straight": {"n": 428, "mm": 559.4}, "curved": {"n": 126, "mm": 212.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [8.0, 411.3, 129.5, 419.4], "text": "WAAD-BECK SySTems LTD"},
+   {"mm": [109.0, 212.7, 198.2, 220.3], "text": "8-109 AMPLIFIER SERIES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 311 × 432 mm, 1440 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 8–301 mm across, 3–419 mm up",
+  "- **Outlines:** line 5 rings, 463 straight (2,678 mm) / 40 curved (66.0 mm); text 42 rings, 428 straight (559 mm) / 126 curved (212 mm)",
+  "- **Words (OCR):** 4 in 2 lines: WAAD-BECK SySTems LTD · 8-109 AMPLIFIER SERIES"
+ ]
+}
