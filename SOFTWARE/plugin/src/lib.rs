@@ -88,6 +88,19 @@ mod plugin {
                 comp_tie: if self.tie1.value() { 1 } else if self.tie2.value() { 2 } else { 0 },
             }
         }
+
+        /// The same settings from plain parameter values looked up by parameter id (bool 0 / 1, int and enum as
+        /// their index): how a host outside nih-plug (the Pro Tools build) drives the DSP.
+        pub fn settings_from(v: &dyn Fn(&str) -> f32) -> Settings {
+            Settings {
+                gate: (v("ng") > 0.5),
+                thld_db: v("thld"),
+                atten_db: v("atten"),
+                rls_s: v("rls"),
+                fast: (v("fast") > 0.5),
+                comp_tie: if (v("tie1") > 0.5) { 1 } else if (v("tie2") > 0.5) { 2 } else { 0 },
+            }
+        }
     }
 
     pub struct M467Plugin {
@@ -156,6 +169,22 @@ mod plugin {
     impl Vst3Plugin for M467Plugin {
         const VST3_CLASS_ID: [u8; 16] = *b"WBS-M467-NsGate1";
         const VST3_SUBCATEGORIES: &'static [Vst3SubCategory] = &[Vst3SubCategory::Fx, Vst3SubCategory::Dynamics];
+    }
+
+    #[cfg(test)]
+    mod settings_from_tests {
+        use super::*;
+
+        #[test]
+        fn settings_from_matches_settings() {
+            let p = M467Params::default();
+            let map = p.param_map();
+            let v = |id: &str| {
+                let (_, ptr, _) = map.iter().find(|(i, _, _)| i == id).expect(id);
+                unsafe { ptr.unmodulated_plain_value() }
+            };
+            assert_eq!(format!("{:?}", M467Params::settings_from(&v)), format!("{:?}", p.settings()));
+        }
     }
 
     nih_export_clap!(M467Plugin);
