@@ -1,0 +1,251 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.jpg",
+  "module": "M467",
+  "applies_to": [
+    "M467"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "467-04-001",
+    "title": "M 467 NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW",
+    "date": null,
+    "issue": "1",
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "1-22 (opposite column drawn blank)",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "INPUT (bracket 1-2)",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "INPUT (bracket 1-2)",
+      "signal": "INPUT",
+      "kind": "in",
+      "port": "INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "SHIELD GND",
+      "signal": "SHIELD GND",
+      "kind": "shield",
+      "port": "INPUT",
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "CONTROL INPUT (bracket 4-5)",
+      "signal": "CONTROL INPUT",
+      "kind": "control_in",
+      "port": "CONTROL INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "CONTROL INPUT (bracket 4-5)",
+      "signal": "CONTROL INPUT",
+      "kind": "control_in",
+      "port": "CONTROL INPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "BUS 1 (STEREO TIE)",
+      "signal": "STEREO TIE BUS 1",
+      "kind": "bus",
+      "port": "STEREO TIE",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "COMMON (STEREO TIE)",
+      "signal": "STEREO TIE COMMON",
+      "kind": "bus",
+      "port": "STEREO TIE",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "BUS 2 (STEREO TIE)",
+      "signal": "STEREO TIE BUS 2",
+      "kind": "bus",
+      "port": "STEREO TIE",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "VU METER (bracket 12-13)",
+      "signal": "VU METER",
+      "kind": "out",
+      "port": "VU METER",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "VU METER (bracket 12-13)",
+      "signal": "VU METER",
+      "kind": "out",
+      "port": "VU METER",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "OUTPUT (bracket 15-16)",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "OUTPUT (bracket 15-16)",
+      "signal": "OUTPUT",
+      "kind": "out",
+      "port": "OUTPUT",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "±COMMON",
+      "signal": "COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS GND",
+      "signal": "CHASSIS GND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "INPUT",
+      "dir": "in",
+      "pins": {
+        "unmarked": [
+          "P1-1",
+          "P1-2"
+        ],
+        "shield": "P1-3"
+      }
+    },
+    {
+      "name": "CONTROL INPUT",
+      "dir": "control_in",
+      "pins": {
+        "unmarked": [
+          "P1-4",
+          "P1-5"
+        ]
+      }
+    },
+    {
+      "name": "STEREO TIE",
+      "dir": "bus",
+      "pins": {
+        "unmarked": [
+          "P1-9",
+          "P1-10",
+          "P1-11"
+        ]
+      }
+    },
+    {
+      "name": "VU METER",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-12",
+          "P1-13"
+        ]
+      }
+    },
+    {
+      "name": "OUTPUT",
+      "dir": "out",
+      "pins": {
+        "unmarked": [
+          "P1-15",
+          "P1-16"
+        ]
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "DRN, DATE, CKD and SCALE boxes are empty",
+    "Contacts 6, 7, 8, 14, 17, 18 have no label",
+    "Polarity of INPUT, CONTROL INPUT, VU METER and OUTPUT pairs not marked"
+  ],
+  "confidence": "high",
+  "notes": "A two-column box is drawn but only the number column (1-22) is filled in; the left (letter) column is blank, so only numbered contacts are recorded. BUS 1 / COMMON / BUS 2 on 9-11 are bracketed STEREO TIE (link between two modules). Size A drawing, ISS 1. No inserts. Same scan content as the other 467-04-001 picture."
+}

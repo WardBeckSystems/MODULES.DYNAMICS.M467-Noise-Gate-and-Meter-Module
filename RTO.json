@@ -3,222 +3,439 @@
  "connector": "RTO-144",
  "type": "DYMAMICS",
  "series": "L-EFFECT",
- "contacts": "22 contacts",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "1-22 (opposite column drawn blank)",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+   "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M467/M467.rto144.json",
+  "sheet_agrees": "13 of 15"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "CD",
-   "kind": "other",
-   "pair": null,
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT",
+   "kind": "in",
+   "port": "INPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-IN-LEFT +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "2",
-   "signal": "CD",
-   "kind": "other",
-   "pair": null,
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT",
+   "kind": "in",
+   "port": "INPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-IN-LEFT -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "3",
-   "signal": "SHIELD GN D",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD GND",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "4",
-   "signal": "CONTROL",
-   "kind": "control",
-   "pair": null,
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL INPUT",
+   "kind": "control_in",
+   "port": "CONTROL INPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Key Gate Input +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "5",
-   "signal": "CONTROL",
-   "kind": "control",
-   "pair": null,
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL INPUT",
+   "kind": "control_in",
+   "port": "CONTROL INPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Key Gate Input -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "9",
-   "signal": "COMP TIE   1",
-   "kind": "control",
-   "pair": "B3",
-   "polarity": "-",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "STEREO TIE BUS 1",
+   "kind": "bus",
+   "port": "STEREO TIE",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M467/M467.rto144.json",
-   "page": 1
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "COMP TIE - 1 -",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "10",
-   "signal": "ZI- OCT",
-   "kind": "other",
-   "pair": null,
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "STEREO TIE COMMON",
+   "kind": "bus",
+   "port": "STEREO TIE",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "COMP TIE - 1 +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "11",
-   "signal": "ZI- OCT",
-   "kind": "other",
-   "pair": null,
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "STEREO TIE BUS 2",
+   "kind": "bus",
+   "port": "STEREO TIE",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "COMP TIE - 2 +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
    "signal": "VU METER",
    "kind": "out",
-   "pair": null,
+   "port": "VU METER",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VU Meter +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
    "signal": "VU METER",
    "kind": "out",
-   "pair": "B2",
-   "polarity": "-",
+   "port": "VU METER",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M467/M467.rto144.json",
-   "page": 1
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VU Meter -",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
    "signal": "OUTPUT",
    "kind": "out",
-   "pair": null,
+   "port": "OUTPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-OUT-LEFT +",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
+   "connector": "P1",
    "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
    "signal": "OUTPUT",
    "kind": "out",
-   "pair": null,
+   "port": "OUTPUT",
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Dynamics-OUT-LEFT -",
+    "kind": "in",
+    "agrees": false
+   }
   },
   {
-   "pin": "18",
-   "signal": "CT",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
-  },
-  {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M467/M467.rto144.json",
-   "page": 1
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
-   "signal": "T COMMON",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
-   "signal": "+25V",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
+   "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
    "signal": "CHASSIS GND",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf",
-   "page": 28
+   "read_from": [
+    "M467/PINOUTS/1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.pinout.json",
+    "M467/PINOUTS/19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.pinout.json"
+   ],
+   "sheet": {
+    "signal": "CHASSIS",
+    "kind": "ground",
+    "agrees": true
+   }
   }
  ],
- "straps": [],
- "power": [
+ "ports": [
   {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.2,
-   "supply": "19",
-   "ground": "20",
-   "link": 2
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "unmarked": [
+     "P1-1",
+     "P1-2"
+    ],
+    "shield": "P1-3"
+   }
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "21",
-   "ground": "20",
-   "link": 1
+   "name": "CONTROL INPUT",
+   "dir": "control_in",
+   "pins": {
+    "unmarked": [
+     "P1-4",
+     "P1-5"
+    ]
+   }
+  },
+  {
+   "name": "STEREO TIE",
+   "dir": "bus",
+   "pins": {
+    "unmarked": [
+     "P1-9",
+     "P1-10",
+     "P1-11"
+    ]
+   }
+  },
+  {
+   "name": "VU METER",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-12",
+     "P1-13"
+    ]
+   }
+  },
+  {
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "unmarked": [
+     "P1-15",
+     "P1-16"
+    ]
+   }
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M467/M467.rto144.json",
-  "Modules/DYNAMICS/M467/MANUALS/1985 - M467 - M567 - Noise Gate and Meter Module.pdf"
+ "inserts": [],
+ "straps": [],
+ "conflicts": [
+  {
+   "pin": "P1-15",
+   "kept": "OUTPUT (out)",
+   "other": "Dynamics-OUT-LEFT + (in)",
+   "from": "RTO-144 sheet"
+  },
+  {
+   "pin": "P1-16",
+   "kept": "OUTPUT (out)",
+   "other": "Dynamics-OUT-LEFT - (in)",
+   "from": "RTO-144 sheet"
+  }
+ ],
+ "to_check": [
+  {
+   "what": "disagree",
+   "pin": "P1-15",
+   "detail": "kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT + (in)"
+  },
+  {
+   "what": "disagree",
+   "pin": "P1-16",
+   "detail": "kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT - (in)"
+  }
  ]
 }

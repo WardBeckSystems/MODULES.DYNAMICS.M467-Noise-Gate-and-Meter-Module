@@ -103,26 +103,30 @@ Not on Google Drive yet: `19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODU
 
 ## RTO-144 pinout
 
-22 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 13 of 15 contacts; 2 to check (`conflicts`). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- disagree P1-15: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT + (in)
+- disagree P1-16: kept OUTPUT (out); RTO-144 sheet says Dynamics-OUT-LEFT - (in)
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | CD | other |  | high |
-| 2 | CD | other |  | high |
-| 3 | SHIELD GN D | ground |  | high |
-| 4 | CONTROL | control |  | high |
-| 5 | CONTROL | control |  | high |
-| 9 | COMP TIE   1 | control | B3 - | high |
-| 10 | ZI- OCT | other |  | high |
-| 11 | ZI- OCT | other |  | high |
-| 12 | VU METER | out |  | high |
-| 13 | VU METER | out | B2 - | high |
-| 15 | OUTPUT | out |  | high |
-| 16 | OUTPUT | out |  | high |
-| 18 | CT | other |  | high |
+| 1 | INPUT | in | INPUT | high |
+| 2 | INPUT | in | INPUT | high |
+| 3 | SHIELD GND | shield | INPUT shield | high |
+| 4 | CONTROL INPUT | control_in | CONTROL INPUT | high |
+| 5 | CONTROL INPUT | control_in | CONTROL INPUT | high |
+| 9 | STEREO TIE BUS 1 | bus | STEREO TIE | high |
+| 10 | STEREO TIE COMMON | bus | STEREO TIE | high |
+| 11 | STEREO TIE BUS 2 | bus | STEREO TIE | high |
+| 12 | VU METER | out | VU METER | high |
+| 13 | VU METER | out | VU METER | high |
+| 15 | OUTPUT | out | OUTPUT | high |
+| 16 | OUTPUT | out | OUTPUT | high |
 | 19 | -25 V | power |  | high |
-| 20 | T COMMON | ground |  | high |
-| 21 | +25V | power |  | high |
+| 20 | COMMON | ground |  | high |
+| 21 | +25 V | power |  | high |
 | 22 | CHASSIS GND | ground |  | high |
 
 ## Manuals and documents
