@@ -1,0 +1,221 @@
+{
+ "module": "M467",
+ "title": "M467 NOISE GATE",
+ "source": {
+  "file": "MANUALS/19xx - M467 - DOC - WBS sales 30.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity."
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "Noise: (20 Hz to 20 kHz) ±0.25 dB from 20 Hz to 20 kHz _ -85 dBm absolute",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": -85,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% from 20 Hz to 20 kHz at +28 dBm output or Tess Less than 0.05% at kHz at +28 dBm output",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.05,
+     "unit": "%"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms maximum, ba lanced/ unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "30 k ohms +10% balanced (for signa] input and contro input when used separately) 15 k ohms +10% balanced (with s igna ] input and contro] input jumpered together)",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "%"
+    },
+    {
+     "value": 10,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-10 dBm to +8 dBm nomina] maximum. +30 dBm",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "-10 dBm to +8 dBm nomina ] +30 dBm maximum.",
+   "quantities": [
+    {
+     "value": -10,
+     "unit": "dBm"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Noise gate attenuation",
+   "key": "noise_gate_attenuation",
+   "text": "0 to 50 dB continuous",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 50,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Noise gate threshold",
+   "key": "noise_gate_threshold",
+   "text": "-50 to 0 dBm",
+   "quantities": [
+    {
+     "from": -50,
+     "to": 0,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Noise gate attack time",
+   "key": "noise_gate_attack_time",
+   "text": "25 microseconds to 5 milliseconds Factory set to 1 millisecond"
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Gate Release Time 0.1 to 5 sec",
+   "quantities": [
+    {
+     "from": 0.1,
+     "to": 5,
+     "unit": "sec"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1976 - M467 - 567 - P002 - 1-1.jpg",
+   "page": 1
+  },
+  {
+   "file": "MANUALS/1976 - M467 - M567 - Noise Gate and Meter Module.pdf",
+   "page": 3
+  },
+  {
+   "file": "MANUALS/1976 - M467 - 567 - P003 - 1-2.jpg",
+   "page": 1
+  }
+ ]
+}
