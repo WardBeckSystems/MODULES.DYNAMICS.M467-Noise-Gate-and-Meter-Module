@@ -1,5 +1,5 @@
 # 1977 - 467-02-001 - NOISEGATE & METER MODULE SCHEMATIC - DRN AF - ISS 7.jpg
-Wiki page: [M467](../../../../PAGES/M467.md)
+Wiki page: [M467](../)
 
 
 - **Year:** 1977 (title block date)

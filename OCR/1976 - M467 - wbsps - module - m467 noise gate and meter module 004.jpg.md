@@ -1,5 +1,5 @@
 # 1976 - M467 - wbsps - module - m467 noise gate and meter module 004.jpg
-Wiki page: [M467](../../../../PAGES/M467.md)
+Wiki page: [M467](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

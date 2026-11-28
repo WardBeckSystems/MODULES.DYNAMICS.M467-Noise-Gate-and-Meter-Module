@@ -1,5 +1,5 @@
 # 1976 - M467 - WBS test procedures 0.jpeg
-Wiki page: [M467](../../../../PAGES/M467.md)
+Wiki page: [M467](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

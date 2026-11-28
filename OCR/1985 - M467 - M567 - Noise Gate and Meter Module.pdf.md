@@ -1,5 +1,5 @@
 # 1985 - M467 - M567 - Noise Gate and Meter Module.pdf
-Wiki page: [M467](../../../../PAGES/M467.md)
+Wiki page: [M467](../)
 
 
 - **Year:** 1985 (found in this file: "MANUAL ISSUE I. W :// SEPTEMBER 1985")

@@ -1,5 +1,5 @@
 # 1976 - 467-01-001 - NOISE GATE & METER MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 3.jpg
-Wiki page: [M467](../../../../PAGES/M467.md)
+Wiki page: [M467](../)
 
 
 - **Year:** 1976 (title block date)

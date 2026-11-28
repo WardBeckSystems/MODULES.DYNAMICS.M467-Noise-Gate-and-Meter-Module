@@ -1,5 +1,5 @@
 # 1980 - M467 - WBS test procedures 3.jpeg
-Wiki page: [M467](../../../../PAGES/M467.md)
+Wiki page: [M467](../)
 
 
 - **Year:** 1980 (found in this file: "Issue 2 MARCH 80")

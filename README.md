@@ -1,6 +1,6 @@
 # M467 Noise Gate and Meter Module · Dynamics
 
-Ward-Beck Systems M467, 1976|9. Wiki page: [M467 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M467.html)
+Ward-Beck Systems M467, 1976|9. Wiki page: [M467 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M467-Noise-Gate-and-Meter-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

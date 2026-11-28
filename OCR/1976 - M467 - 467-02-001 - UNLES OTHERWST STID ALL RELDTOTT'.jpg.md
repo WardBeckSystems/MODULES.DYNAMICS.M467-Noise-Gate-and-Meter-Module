@@ -1,5 +1,5 @@
 # 1976 - M467 - 467-02-001 - UNLES OTHERWST STID ALL RELDTOTT'.jpg
-Wiki page: [M467](../../../../PAGES/M467.md)
+Wiki page: [M467](../)
 
 
 - **Year:** 1976 (module estimate (labelled))
