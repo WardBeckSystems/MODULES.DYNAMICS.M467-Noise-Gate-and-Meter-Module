@@ -4,13 +4,13 @@ Ward-Beck Systems M467, 1976|9. Wiki page: [M467 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 35 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 20 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 225 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 17 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 3 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 34 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 19 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 224 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 16 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 72 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -75,7 +75,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUE5ONGE3UVVRdGc/view?resourcekey=0-QQ8GJG0sJWBvrITvFHK7Lw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUE5ONGE3UVVRdGc&resourcekey=0-QQ8GJG0sJWBvrITvFHK7Lw" width="240" alt="1976 - M467 - 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH.jpg"></a><br><sub>1976|9 · 467-04-002 - COMP TIE COHPRESSOR STEREO TIE SWITCH · <a href="MECHANICAL/1976%20-%20M467%20-%20467-04-002%20-%20COMP%20TIE%20COHPRESSOR%20STEREO%20TIE%20SWITCH%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY2ltX0FBV24xQnM/view?resourcekey=0-XJ4SODOXrGAW4cWzRNV3XQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY2ltX0FBV24xQnM&resourcekey=0-XJ4SODOXrGAW4cWzRNV3XQ" width="240" alt="19xx - M467 - DOC - 467-04-002 - CIRCUITRY RED LED INDICATOR KHEN DEPRESSED AND ASSOC.jpg"></a><br><sub>19xx - M467 - DOC - 467-04-002 - CIRCUITRY RED LED INDICATOR KHEN DEPRESSED AND ASSOC · <a href="MECHANICAL/19xx%20-%20M467%20-%20DOC%20-%20467-04-002%20-%20CIRCUITRY%20RED%20LED%20INDICATOR%20KHEN%20DEPRESSED%20AND%20ASSOC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1984 - 467-03-006 - TRIM POT MTG. BRACKET USED ON M467F - DRN J - ISS 2.jpg`, `19xx - 467-04-001.jpg`
+## 3-D model
+
+[`MECHANICAL/M467.stl`](MECHANICAL/M467.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M467)
+
+- **Size:** 55.49 × 209.64 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 12 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M467 - front panel.svg`)
+- the drawn panel is 0.21 wide to high, the size 0.26: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M467.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -86,8 +93,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLU1ZWEhkYmFXWWs/view?resourcekey=0-G2m646exDAmm7TsomsJ-sw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLU1ZWEhkYmFXWWs&resourcekey=0-G2m646exDAmm7TsomsJ-sw" width="240" alt="1976 - M467 - 8-109-06-007 - DUTPUT AMPL IFIER.jpg"></a><br><sub>1976|9 · 8-109-06-007 - DUTPUT AMPL IFIER · <a href="SCHEMATICS/1976%20-%20M467%20-%208-109-06-007%20-%20DUTPUT%20AMPL%20IFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1GcA-Mzdk_k-4gBSCGxdvvNDyDsuVqQyq/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1GcA-Mzdk_k-4gBSCGxdvvNDyDsuVqQyq" width="240" alt="19xx - M467 - DOC - 467-02-001 - NOISEGATE METER MODULE.jpg"></a><br><sub>19xx - M467 - DOC - 467-02-001 - NOISEGATE METER MODULE · <a href="SCHEMATICS/19xx%20-%20M467%20-%20DOC%20-%20467-02-001%20-%20NOISEGATE%20METER%20MODULE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1976 - 467-01-001 - NOISE GATE & METER MODULE FUNCTIONAL DIAGRAM - DRN DNM - ISS 3.jpg`, `1977 - 467-02-001 - NOISEGATE & METER MODULE SCHEMATIC - DRN AF - ISS 7.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -95,8 +100,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRkJ3TERUYVdjbVU/view?resourcekey=0-0sJK19cLEFTqWGvLo79xGw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRkJ3TERUYVdjbVU&resourcekey=0-0sJK19cLEFTqWGvLo79xGw" width="240" alt="1976 - M467 - 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW.jpg"></a><br><sub>1976|9 · 467-04-001 - METER MODULE ALE CONNECTOR REAR VIEW · <a href="PINOUTS/1976%20-%20M467%20-%20467-04-001%20-%20METER%20MODULE%20ALE%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `19xx - 467-04-001 - NOISE GATE & COMPRESSOR METER MODULE CONNECTOR REAR VIEW - ISS 1.jpg`, `M467 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -161,12 +164,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 467-01-001.kicad_sch](KICAD/19xx%20-%20467-01-001.kicad_sch)
 - [19xx - M467 - DOC - 467-02-001 - NOISEGATE METER MODULE.kicad_sch](KICAD/19xx%20-%20M467%20-%20DOC%20-%20467-02-001%20-%20NOISEGATE%20METER%20MODULE.kicad_sch)
 - [M467.kicad_sym](KICAD/M467.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 - [plugin](SOFTWARE/plugin): the Rust VST3 / CLAP plugin and Audio Tap insert
 
 ---
